@@ -36,11 +36,14 @@ function concert() {
         function (response) {
             for (var i = 0; i < response.data.length; i++) {
                 // console.log(response.data);
-                // console.log(Object.keys(response.data));           
-                console.log("* Venue name: " + response.data[i].venue.name);
-                console.log("* Venue location: " + response.data[i].venue.city + "," + response.data[i].venue.region);
-                console.log("* Event Date: " + moment(response.data[i].datetime).format("MM/DD/YYYY"));
-                console.log("\r\n\=================================\r\n");
+                output =
+                    "\r\n\=================================\r\n" +
+                    "* Lineup: " + response.data[i].lineup + "\r\n" +
+                    "* Venue name: " + response.data[i].venue.name + "\r\n" +
+                    "* Venue location: " + response.data[i].venue.city + "," + response.data[i].venue.region + "\r\n" +
+                    "* Event Date: " + moment(response.data[i].datetime).format("MM/DD/YYYY")
+                console.log(output);
+                logIt(output);
             }
         },
         function (error) {
@@ -54,15 +57,22 @@ function song() {
     spotify.search({ type: 'track', query: query }, function (error, data) {
         var songs = data.tracks.items;
 
+        if (query === "") {
+            query = "The Sign";
+        }
+
         if (error) {
             console.log('Error occurred: ' + error);
         } else {
             for (var i = 0; i < data.tracks.items.length; i++) {
-                console.log("Artist name: " + songs[i].artists[0].name);
-                console.log("Song name: " + songs[i].name);
-                console.log("Preview song URL: " + songs[i].preview_url);
-                console.log("Album name: " + songs[i].album.name);
-                console.log("\r\n\=================================\r\n");
+                output =
+                    "\r\n\=================================\r\n" +
+                    "Artist name: " + songs[i].artists[0].name + "\r\n" +
+                    "Song name: " + songs[i].name + "\r\n" +
+                    "Preview song URL: " + songs[i].preview_url + "\r\n" +
+                    "Album name: " + songs[i].album.name
+                console.log(output);
+                logIt(output);
             }
         }
     });
@@ -81,15 +91,18 @@ function movie() {
     axios.get(queryUrl).then(
         function (response) {
             // console.log(response.data);
-            console.log("* Title of the movie: " + response.data.Title);
-            console.log("* Year the movie came out: " + response.data.Year);
-            console.log("* IMDB Rating of the movie: " + response.data.Ratings[0].Value);
-            console.log("* Rotten Tomatoes Rating of the movie: " + response.data.Ratings[1].Value);
-            console.log("* Country where the movie was produced: " + response.data.Country);
-            console.log("* Language of the movie: " + response.data.Language);
-            console.log("* Plot of the movie: " + response.data.Plot);
-            console.log("* Actors in the movie: " + response.data.Actors);
-            console.log("\r\n\=================================\r\n");
+            output =
+                "\r\n\=================================\r\n" +
+                "* Title of the movie: " + response.data.Title + "\r\n" +
+                "* Year the movie came out: " + response.data.Year + "\r\n" +
+                "* IMDB Rating of the movie: " + response.data.Ratings[0].Value + "\r\n" +
+                "* Rotten Tomatoes Rating of the movie: " + response.data.Ratings[1].Value + "\r\n" +
+                "* Country where the movie was produced: " + response.data.Country + "\r\n" +
+                "* Language of the movie: " + response.data.Language + "\r\n" +
+                "* Plot of the movie: " + response.data.Plot + "\r\n" +
+                "* Actors in the movie: " + response.data.Actors 
+            console.log(output);
+            logIt(output);
         },
         function (error) {
             console.log(error);
@@ -102,5 +115,25 @@ function doIt() {
         if (error) {
             return console.log(error);
         }
+        var dataArray = data.split(",");
+        console.log(data);
+        console.log(dataArray[1]);
+        // movie(dataArray[3]);
+        // concert(dataArray[5]);
+    });
+}
+
+// Function to append LIRI command results to log.txt file
+function logIt(data) {
+    fs.appendFile("log.txt", (data), function (error) {
+        if (error) {
+            return console.log(error);
+        }
+    });
+    fs.appendFile("log.txt", "\r\n", function (error) {
+        if (error) {
+            return console.log(error);
+        }
+        console.log("Log file updated");
     });
 }
