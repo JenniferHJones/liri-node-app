@@ -72,8 +72,11 @@ function song(input) {
     }
     /* Logs what song was searched */
     console.log(`LIRI searched for ${input}\n`);
+    
     spotify.search({ type: 'track', query: input }, function (error, data) {
         var songs = data.tracks.items;
+        /* Logs how many results were found*/
+        console.log(`\nLIRI found ${data.tracks.items.length} results\n`)
 
         if (error) {
             console.log(`Error occurred: ${error}`);
@@ -83,8 +86,6 @@ function song(input) {
                 console.log(output);
                 logIt(output);
             }
-            /* Logs how many results were found*/
-            console.log(`\nLIRI found ${data.tracks.items.length} results\n`)
         }
     });
 }
