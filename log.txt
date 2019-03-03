@@ -1,0 +1,443 @@
+2019-03-02 18:16
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: BottleRock
+                    * Venue location: Napa, United States
+                    * Event Date: 05/24/2019
+2019-03-02 18:16
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: Visarno Arena
+                    * Venue location: Florence, Italy
+                    * Event Date: 06/02/2019
+2019-03-02 18:16
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: Pro Football Hall of Fame
+                    * Venue location: Canton, United States
+                    * Event Date: 08/04/2019
+
+2019-03-02 18:36
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: BottleRock
+                    * Venue location: Napa, United States
+                    * Event Date: 05/24/2019
+2019-03-02 18:36
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: Visarno Arena
+                    * Venue location: Florence, Italy
+                    * Event Date: 06/02/20192019-03-02 18:36
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: Pro Football Hall of Fame
+                    * Venue location: Canton, United States
+                    * Event Date: 08/04/2019
+
+2019-03-02 18:36
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: BottleRock
+                    * Venue location: Napa, United States
+                    * Event Date: 05/24/2019
+2019-03-02 18:36
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: Pro Football Hall of Fame
+                    * Venue location: Canton, United States
+                    * Event Date: 08/04/20192019-03-02 18:36
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: Visarno Arena
+                    * Venue location: Florence, Italy
+                    * Event Date: 06/02/2019
+2019-03-02 18:38
+
+===========================================
+* Title of the movie: Twister
+* Year the movie came out: 1996
+* IMDB Rating of the movie: 6.3/10
+* Rotten Tomatoes Rating of the movie: 57%
+* Country where the movie was produced: USA
+* Language: English
+* Plot: Bill and Jo Harding, advanced storm chasers on the brink of divorce, must join together to create an advanced weather alert system by putting themselves in the cross-hairs of extremely violent tornadoes.
+* Actors: Helen Hunt, Bill Paxton, Cary Elwes, Jami Gertz
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Stifel Theatre
+                    * Venue location: St. Louis, United States
+                    * Event Date: 04/13/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: State Farm Arena
+                    * Venue location: Hidalgo, United States
+                    * Event Date: 05/10/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Roundhouse
+                    * Venue location: London, United Kingdom
+                    * Event Date: 05/19/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: O2 Academy Newcastle
+                    * Venue location: Newcastle Upon Tyne, United Kingdom
+                    * Event Date: 05/22/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: O2 Academy Birmingham
+                    * Venue location: Birmingham, United Kingdom
+                    * Event Date: 05/24/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: O2 Apollo Manchester
+                    * Venue location: Manchester, United Kingdom
+                    * Event Date: 05/25/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: La Seine Musicale
+                    * Venue location: Boulogne-billancourt, France
+                    * Event Date: 05/28/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Sports hall "Arena Armeec"
+                    * Venue location: Sofia, Bulgaria
+                    * Event Date: 06/01/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Dvorana Stožice
+                    * Venue location: Ljubljana, Slovenia
+                    * Event Date: 06/04/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Expo Plaza Messe Süd
+                    * Venue location: Hannover, Germany
+                    * Event Date: 06/06/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Kauno Žalgirio arena
+                    * Venue location: Kaunas, Lithuania
+                    * Event Date: 06/08/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Arēna Rīga
+                    * Venue location: Riga, Latvia
+                    * Event Date: 06/10/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Saku Suurhall
+                    * Venue location: Tallinn, Estonia
+                    * Event Date: 06/12/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Kaisaniemi Park
+                    * Venue location: Helsinki, Finland
+                    * Event Date: 06/13/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Beitostølen Stadion
+                    * Venue location: Beitostolen, Norway
+                    * Event Date: 06/15/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Solsiden
+                    * Venue location: Trondheim, Norway
+                    * Event Date: 06/17/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Solsiden
+                    * Venue location: Trondheim, Norway
+                    * Event Date: 06/19/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Teaterpladsen
+                    * Venue location: Holstebro, Denmark
+                    * Event Date: 06/21/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Jahn-Gelände Forchheim
+                    * Venue location: Forchheim, Germany
+                    * Event Date: 06/23/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: SparkassenPark Mönchengladbach
+                    * Venue location: Mönchengladbach, Germany
+                    * Event Date: 06/25/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: OpenAir-Platz der EmslandArena
+                    * Venue location: Lingen, Germany
+                    * Event Date: 06/26/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: DE BIJLOKE (TUINEN)
+                    * Venue location: Gent, Belgium
+                    * Event Date: 06/30/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Messe Graz
+                    * Venue location: Graz, Austria
+                    * Event Date: 07/04/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: DE BIJLOKE (TUINEN)
+                    * Venue location: Gent, Belgium
+                    * Event Date: 07/05/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Freilichtbühne Peißnitz
+                    * Venue location: Schwarzenbach An Der Saale, Germany
+                    * Event Date: 07/06/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: DE BIJLOKE (TUINEN)
+                    * Venue location: Gent, Belgium
+                    * Event Date: 07/07/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: DE BIJLOKE (TUINEN)
+                    * Venue location: Gent, Belgium
+                    * Event Date: 07/08/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: DE BIJLOKE (TUINEN)
+                    * Venue location: Gent, Belgium
+                    * Event Date: 07/09/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Musik-Arena
+                    * Venue location: Munchen, Germany
+                    * Event Date: 07/10/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Schloßplatz
+                    * Venue location: Stuttgart, Germany
+                    * Event Date: 07/11/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Zámecký park Slavkov u Brna
+                    * Venue location: Brno-kralovo, Czech Republic
+                    * Event Date: 07/12/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Kunst!Rasen Bonn/Gronau
+                    * Venue location: Bonn-bad Godesberg, Germany
+                    * Event Date: 07/15/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: CHAPITEAU
+                    * Venue location: Marciac, France
+                    * Event Date: 07/25/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Théâtre Jean Deschamps
+                    * Venue location: Carcassonne, France
+                    * Event Date: 07/26/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Stade Jules Ladoumègue
+                    * Venue location: Vitrolles, France
+                    * Event Date: 07/27/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Théatre de plein air -Parc des expositions
+                    * Venue location: Colmar, France
+                    * Event Date: 08/01/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Filene Center at Wolf Trap
+                    * Venue location: Vienna, United States
+                    * Event Date: 08/26/2019
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Filene Center at Wolf Trap
+                    * Venue location: Vienna, United States
+                    * Event Date: 08/27/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Filene Center at Wolf Trap
+                    * Venue location: Vienna, United States
+                    * Event Date: 08/28/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Jazz At Aspen-Snowmass
+                    * Venue location: Aspen, United States
+                    * Event Date: 08/30/20192019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: USANA Amphitheatre
+                    * Venue location: West Valley City, United States
+                    * Event Date: 08/31/2019
+
+2019-03-02 18:57
+
+===========================================
+
+                    * Lineup: Sting
+                    * Venue name: Snowmass Village
+                    * Venue location: Snowmass Village, United States
+                    * Event Date: 09/01/2019
+2019-03-02 18:59
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: BottleRock
+                    * Venue location: Napa, United States
+                    * Event Date: 05/24/2019
+2019-03-02 18:59
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: Pro Football Hall of Fame
+                    * Venue location: Canton, United States
+                    * Event Date: 08/04/2019
+2019-03-02 18:59
+
+===========================================
+
+                    * Lineup: Imagine Dragons
+                    * Venue name: Visarno Arena
+                    * Venue location: Florence, Italy
+                    * Event Date: 06/02/2019

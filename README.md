@@ -1,28 +1,43 @@
 # liri-node-app
 
 ## Description
-LIRI is a Language Interpretation and Recognition Interface. This is a command line node app that takes in arguements entered by the user and returns data.
+LIRI is a Language Interpretation and Recognition Interface. This is a command line node app that takes in arguments entered by the user and returns data.
+___
+## User Setup
 
-## Installs
-* Axios `npm install axios`
-* Moment.js `npm install moment`
-* Spotify `npm install --save node-spotify-api`
+1. Clone LIRI App
 
+2. Obtain Keys for the following APIs & add to your .env file
+    * BandCamp
+    * OMBD
+    * Spotify
+
+3. Run NPM Install for the following dependencies
+    * Axios
+    * Dotenv
+    * Moment.js
+    * Spotify
+___
 ## User Interface
-Enter `node liri.js` + one of these four commands:
-1. `concert-this` + `<artist/band name here>` displays the following:
+Navigate to where LIRI app is saved, then enter `node liri` + one of the following:
+
+1. `concert-this` + `<artist/band name here>` displays:
     * Venue name
     * Venue location
     * Event date
 
-2. `spotify-this-song` + `<song name here>` displays the following:
+    * NOTE: If no artist/band name is entered, LIRI pulls data for Imagine Dragons
+
+![console example](./images/concert-this-default.png)
+
+2. `spotify-this-song` + `<song name here>` displays:
     * Artist name
     * Song name
-    * Song preview URL from Spotify
     * Album name
-    * NOTE:  If no song name is entered, LIRI defaults to "The Sign" by Ace of Base
+    * Song preview URL from Spotify
+    * NOTE:  If no song name is entered, LIRI defaults to "The Sign"
 
-3. `movie-this` + `<movie name here>` displays the following:
+3. `movie-this` + `<movie name here>` displays:
     * Title
     * Year
     * IMDB Rating
@@ -34,12 +49,18 @@ Enter `node liri.js` + one of these four commands:
     * NOTE:  If no movie name is entered, LIRI defaults to "Mr. Nobody"
 
 4. `do-what-it-says` 
-    * Uses the fs Node package to take the text inside the random.txt file to call one of LIRI's commands.
+    * Uses the fs Node package to take the text inside the random.txt file to call the spotify-this-song command using "I Want it that Way"
 
+NOTE: 
+* Command results are logged to `log.txt` file.
+* No command results in a prompt:
+* Unrecognized command results in a prompt:
+___
 ## Technology
-* API - OMDB (via Axios)
-* API - Bands in Town (via Axios)
+* API - OMDB (via NPM Axios)
+* API - Bands in Town (via NPM Axios)
 * Node.js
+* NPM Dotenv
 * NPM Spotify
 * JavaScript
 * Moment.js

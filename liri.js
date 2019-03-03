@@ -32,11 +32,11 @@ if (command === "movie-this") {
 /* ---------------------------------Bands in Town API using Axios---------------------------------*/
 /* Function to respond to concert-this command */
 function concert(artist) {
-    var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + keys.bandCamp.code;
 
     /* Default band if user fails to input a band */
     if (!artist) {
-        queryUrl = "https://rest.bandsintown.com/artists/imagine+dragons/events?app_id=codingbootcamp";
+        queryUrl = "https://rest.bandsintown.com/artists/imagine+dragons/events?app_id=" + keys.bandCamp.code;
     }
 
     // console.log(queryUrl);
@@ -97,7 +97,7 @@ function movie(title) {
         title = "Mr. Nobody";
     };
 
-    var queryUrl = "http://www.omdbapi.com/?t=" + title + "&apikey=trilogy";
+    var queryUrl = "http://www.omdbapi.com/?t=" + title + "&apikey=" + keys.omdb.code;
 
     axios.get(queryUrl).then(
         function (response) {
